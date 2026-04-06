@@ -2,4 +2,5 @@ MY RESOLUTION
 - Learning about web development
 - Learning about AI Automation
 - Learning Arabic
+  -- Dalam 3 tahun
 - Optimization @angklungcentre
